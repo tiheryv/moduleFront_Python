@@ -1,0 +1,54 @@
+.header{
+    background-color: blue;
+    border: 2px solid red;
+    
+}
+
+.header nav{
+    background-color: orangered;
+    border: 2px solid green;
+    
+}
+
+.container-post{
+    background-color: yellow;
+}
+
+
+.display-flex{
+    display: flex;
+}
+
+
+.justify-content-between{
+    justify-content: space-between;
+}
+
+aside{
+    background-color: sandybrown;
+    border: 1px solid orange;
+    width: 20%;
+    display: inline-block;
+   
+}
+
+main{
+    background-color: red;
+    border: 1px solid orange;
+    width: 60%;
+    display: inline-block;
+    
+}
+
+footer{
+    background-color: purple;
+    color: white;
+}
+
+*{
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+    
+}
