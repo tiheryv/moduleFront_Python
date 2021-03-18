@@ -1,0 +1,64 @@
+.element_name h2{
+    color: white;
+    
+}
+.section_name{
+    color: black;
+
+}
+header {
+    background-color: blue;
+    margin: 20px;
+    border: 5px solid red;
+    
+    padding: 5px 10px;
+
+}
+
+nav {
+    background-color: sandybrown;
+    border: 5px solid green;
+    padding: 0px 5px;
+    
+}
+
+aside{
+    display: inline-block;
+    background-color: sandybrown;
+    border: 5px solid red;
+    width: 20%;
+    height: 500px;
+    
+    margin: 20px;
+    padding: 5px 10x;
+    
+
+    
+}
+main{
+    display: inline-block;
+    background-color: orangered;
+    border: 5px solid blue;
+    padding: 20px;
+    width: 45%;
+    height: 500px;
+    
+}
+
+article{
+    background-color: yellow;
+    height: 130px;
+    
+}
+
+footer{
+    background-color: purple;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 0px 5px;
+}
+
+*{
+    border-radius: 5px;
+}
+
