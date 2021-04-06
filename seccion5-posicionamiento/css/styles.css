@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.top-section{
+    height: 50vh;
+    background-color:rgba(37, 95, 182, 0.281)
+}
+
+.bottom-section{
+    height: 50vh;
+    background-color:rosybrown;
+}
+.form-box{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    height: 150px;
+    width: 50vw;
+    position: absolute;    
+    top: 40%;
+    left: 25%;
+    
+    
+}
+
+div.form-box input{
+    width: 50%;
+    
+}
+
+div.form-box button{
+    background-color: royalblue;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    align-self: center;
+}
+
